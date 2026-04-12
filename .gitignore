@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+category_model.pkl
+*.log
+.idea/
+.DS_Store
+Thumbs.db
+pyvenv.cfg
+.pytest_cache/
