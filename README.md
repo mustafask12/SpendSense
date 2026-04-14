@@ -256,15 +256,19 @@ The category dropdown on that row **automatically updates** and a toast notifica
 
 ## 💬 AI Financial Advisor — Example Queries
 
-The chatbot translates plain English into SQL and answers from your real data:
+The chatbot features multi-turn memory — it remembers context across
+questions in the same session. It translates plain English into MySQL
+and answers conversationally with insights, not just raw numbers:
 
 ```
-"What was my highest expense in August 2024?"
-"Compare my spending in August vs September."
-"If 1 GBP = 105 INR, what is my total August spend in pounds?"
-"Are there any duplicate entries with the same amount, category, and date?"
-"If I keep spending like August, what will my yearly total look like?"
-"Which category will I struggle with most on a £1,500/month UK budget?"
+"What were my top 3 spending categories in 2024?"
+"Which of those grew the most between first and second half of the year?"
+"Which month was the worst in 2024?"
+"Did my Food spending increase or decrease from 2024 to 2025?"
+"If 1 USD = 93.09 INR, what is my total August 2024 spend in dollars?"
+"Was I better with money in the first half or second half of 2024?"
+"What was my total spending in 2024, which month was highest, and what percentage was Food?"
+"How much did I spend on dates that were weekends?"
 ```
 
 ---
