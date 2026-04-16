@@ -261,13 +261,13 @@ questions in the same session. It translates plain English into MySQL
 and answers conversationally with insights, not just raw numbers:
 
 ```
-"What were my top 3 spending categories in 2024?"
+"What were my top 3 spending categories in 2026?"
 "Which of those grew the most between first and second half of the year?"
-"Which month was the worst in 2024?"
-"Did my Food spending increase or decrease from 2024 to 2025?"
-"If 1 USD = 93.09 INR, what is my total August 2024 spend in dollars?"
-"Was I better with money in the first half or second half of 2024?"
-"What was my total spending in 2024, which month was highest, and what percentage was Food?"
+"Which month was the worst in 2025?"
+"Did my Food spending increase or decrease from 2025 to 2026?"
+"If 1 USD = 93.09 INR, what is my total August 2026 spend in dollars?"
+"Was I better with money in the first half or second half of 2025?"
+"What was my total spending in 2025, which month was highest, and what percentage was Food?"
 "How much did I spend on dates that were weekends?"
 ```
 
